@@ -8,7 +8,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Instructions
 
-Put `terminalrc` into `.config/xfce4/terminal/ `.
+Put `terminalrc` into `.config/xfce4/terminal/`.
 
 ### Screenshots
 
