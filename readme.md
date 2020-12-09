@@ -17,3 +17,7 @@ Put `terminalrc` into `.config/xfce4/terminal/`.
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
 ![XFCE Terminal with Rosé Pine](https://i.imgur.com/o8WhjNG.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
