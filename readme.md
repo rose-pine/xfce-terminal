@@ -15,7 +15,7 @@
 
 Put `terminalrc` into `.config/xfce4/terminal/`.
 
-## Screenshots
+## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
