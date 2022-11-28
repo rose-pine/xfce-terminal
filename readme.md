@@ -13,14 +13,27 @@
 
 ## Usage
 
-Put `terminalrc` into `.config/xfce4/terminal/`.
+1. Browse to the `src` folder inside the repository and download the file corresponding to your favorite flavor - i.e. `rose-pine.theme`, `rose-pine-dawn.theme` or `rose-pine-moon.theme`.
+2. Paste the file inside the `/usr/share/xfce4/terminal/colorschemes` folder to install at system level or inside the `~/.local/share/xfce4/terminal/colorschemes` folder (create if not already present) to install for a single user.
+3. Re-open XFCE4 Terminal, go to `Edit > Preferences > Colors > Presets` and select the name of the flavor from the drop-down to apply.
 
 ## Gallery
 
 Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfetch)
 
-![XFCE Terminal with Rosé Pine](https://i.imgur.com/o8WhjNG.png)
+**Rosé Pine**
+
+![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine.webp)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine-Dawn.webp)
+
+**Rosé Pine Moon**
+
+![Rosé Pine Moon](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine-Moon.webp)
 
 ## Thanks to 
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+- [Prateek](https://github.com/prateektade)
