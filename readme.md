@@ -23,15 +23,15 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 
 **Rosé Pine**
 
-![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine.webp)
+![Rosé Pine](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/rework-colors-add-flavors/assets/XFCE4-Terminal-Rosé-Pine.webp)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine-Dawn.webp)
+![Rosé Pine Dawn](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/rework-colors-add-flavors/assets/XFCE4-Terminal-Rosé-Pine-Dawn.webp)
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/main/assets/XFCE4-Terminal-Rosé-Pine-Moon.webp)
+![Rosé Pine Moon](https://raw.githubusercontent.com/prateektade/rose-pine-xfce4-terminal/rework-colors-add-flavors/assets/XFCE4-Terminal-Rosé-Pine-Moon.webp)
 
 ## Thanks to 
 
