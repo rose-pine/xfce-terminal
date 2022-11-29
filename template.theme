@@ -1,0 +1,6 @@
+[Scheme]
+Name=$name
+ColorCursor=$text
+ColorForeground=$text
+ColorBackground=$base
+ColorPalette=$overlay;$love;$foam;$gold;$pine;$iris;$rose;$text;$muted;$love;$foam;$gold;$pine;$iris;$rose;$text
