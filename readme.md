@@ -31,7 +31,7 @@ Fetch featured below is [NerdFetch](https://github.com/thatonecalculator/nerdfet
 
 **Rosé Pine Moon**
 
-![XFCE4-Terminal-Rosé-Pine-Moon](https://user-images.githubusercontent.com/108054324/204723708-0134f127-3ed9-4756-b4e3-ac291f502000.png)
+![Rosé Pine Moon with XFCE4 Terminal](https://user-images.githubusercontent.com/108054324/204723708-0134f127-3ed9-4756-b4e3-ac291f502000.png)
 
 ## Thanks to 
 
